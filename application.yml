@@ -1,6 +1,6 @@
-spring:
-  application:
-    username: ConfigServer-default
+# spring:
+#   application:
+#     username: ConfigServer-default
 
 eureka:
   instance:
